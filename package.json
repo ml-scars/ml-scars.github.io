@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "build": "webpack -p",
     "imgdir": "node imgdir.js",
     "imagemin": "node imagemin.js",
+    "build": "webpack -p",
     "start": "webpack-dev-server --inline --hot"
   },
   "devDependencies": {
