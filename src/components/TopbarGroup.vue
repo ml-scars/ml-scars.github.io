@@ -90,4 +90,5 @@ export default {
   font-size .75em
   margin-left 1em
   color #72735D
+  text-decoration none
 </style>
